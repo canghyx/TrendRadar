@@ -1,3 +1,4 @@
+
 A股
 上证
 深证
@@ -13,6 +14,7 @@ CPI
 ISM
 非农
 CPI
+宏观经济
 @10
 
 特斯拉
@@ -21,6 +23,7 @@ CPI
 NVIDIA
 黄仁勋
 AMD
+TSLA
 @10
 
 RKLB
