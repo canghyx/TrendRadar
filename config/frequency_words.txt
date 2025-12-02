@@ -5,6 +5,7 @@ PPI
 CPI
 +涨跌
 !预测
+@5
 
 美联储
 降息
@@ -12,29 +13,29 @@ CPI
 ISM
 非农
 CPI
+@10
 
 特斯拉
 马斯克
-@5
+英伟达
+NVIDIA
+黄仁勋
+AMD
+@10
 
 RKLB
 rocket lab
 航空航天
+@5
 
 纳斯达克
 标普500
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
+@10
 
 谷歌
 google
 gemini
 deepmind
-
 chatgpt
 openai
 sora
@@ -42,23 +43,25 @@ claude
 Anthropic
 DeepSeek
 kimi
+千问
+qwen
+@10
+
 
 ai
 !gai
 人工智能
+@5
 
 自动驾驶
 
 机器人
+@3
 
 美国
 日本
 韩国
+@5
 
 科技
-
-
-火星
-宇宙
-飞船
-航空
+@5
