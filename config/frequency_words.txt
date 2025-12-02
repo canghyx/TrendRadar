@@ -2,10 +2,8 @@
 A股
 上证
 深证
-PPI
-CPI
-+涨跌
-!预测
+港股
+美股
 @5
 
 美联储
@@ -14,6 +12,7 @@ CPI
 ISM
 非农
 CPI
+PPI
 宏观经济
 @10
 
@@ -36,6 +35,8 @@ rocket lab
 @10
 
 谷歌
+ai
+!gai
 google
 gemini
 deepmind
@@ -48,16 +49,10 @@ DeepSeek
 kimi
 千问
 qwen
+人工智能
 @10
 
-
-ai
-!gai
-人工智能
-@5
-
 自动驾驶
-
 机器人
 @3
 
